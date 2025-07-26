@@ -6,11 +6,11 @@ You may already know that every exciting data science journey starts with a data
 
 **The App performs following tasks : 
 
-  Convert .csv data in to a pandas dataframe
-  Data cleaning
-  Data Summerisation
-  Calculates statitical measures
-  Identifies correlations
+  *Convert .csv data in to a pandas dataframe
+  *Data cleaning
+  *Data Summerisation
+  *Calculates statitical measures
+  *Identifies correlations
   
   
 
